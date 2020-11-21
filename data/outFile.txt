@@ -1,0 +1,18 @@
+Monthly Temperatures: | Developer: Brady Lange
+*****************************************************************************
+The average temperatures for all of the months are: 
+Highest Temperatures: 40.0 45.0 60.0 70.0 90.0 89.0 95.0 79.0 90.0 70.0 40.0 
+Lowest Temperatures: -8.0 20.0 30.0 50.0 75.0 85.0 79.0 50.0 80.0 30.0 12.0 
+*****************************************************************************
+
+The lowest temperature of all months is: -10.0
+*****************************************************************************
+
+The highest temperature of all months is: 95.0
+*****************************************************************************
+
+The average low temperature for the year of all the months is: 41.08
+*****************************************************************************
+
+The average high temperature for the year of all the months is: 66.50
+*****************************************************************************
